@@ -1,0 +1,14 @@
+To build C library:
+$ make
+you need:
+- swig
+- gtk2-devel
+- python-devel
+- gstreamer-devel
+- pygtk2-devel
+
+To make regular sugar procedures:
+$ ./setup.py
+
+To install binaries:
+$ make DESTDIR=<path_to_install> install

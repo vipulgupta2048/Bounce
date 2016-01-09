@@ -1,0 +1,19 @@
+Version 4
+
+- Finish reimplementing sounds using PyGame.mixer.
+- Add score recording.
+- Add scrolling score history screen.
+- Optimize framerate.
+  - Remove Cairo in score display.
+- Fix journal resuming in edit mode.
+- Release Bounce v4.
+
+Version 5
+
++ Add video paddle.
++ Add multiplayer.
+
+Future
+
++ Double buffer only when text is visible onscreen.
++ Completely eliminate cairo.

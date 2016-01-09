@@ -1,0 +1,31 @@
+7
+
+Disable next and previous arrows in stage editor when at the end of the list (#205)
+
+Bounce-6
+- don't busy wait! (dlo trac #8289)
+- minor packaging updates
+
+Bounce-5
+- New toolbar icons from Loser.
+
+Bounce-4
+- Renamed from 3dpong to Bounce.
+- Fixed sounds.
+- Optimized framerate and locked to 30fps.
+
+3dpong-3
+- Added level editor.
+- Added journal integration.
+- Optimized for decent performance on XO.
+- Bug fixes.
+
+3dpong-2
+
+- Rewrote without PyGame, using plain PyGtk and Cairo.
+- Minor display improvements.
+- Sound currently broken.
+
+3dpong-1
+
+- Initial release.
