@@ -5,4 +5,5 @@ host_version = 1
 bundle_id = bounce
 icon = bounce
 exec = sugar-activity bounce.BounceActivity
-
+license = GPLv3+
+repository = https://github.com/sugarlabs/Bounce.git
