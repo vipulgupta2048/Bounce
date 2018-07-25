@@ -1,9 +1,10 @@
 [Activity]
 name = Bounce 
+license = GPLv3+
 activity_version = 7 
-host_version = 1
 bundle_id = bounce
 icon = bounce
 exec = sugar-activity bounce.BounceActivity
-license = GPLv3+
 repository = https://github.com/sugarlabs/Bounce.git
+summary = Bounce is a fast paced 3D action game for the XO laptop. The game is analogous to the arcade game Pong, however it takes place within a three dimensional box with physical effects such as gravity.
+tags = Game
